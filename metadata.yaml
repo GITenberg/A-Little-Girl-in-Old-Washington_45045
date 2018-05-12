@@ -1,0 +1,32 @@
+_repo: A-Little-Girl-in-Old-Washington_45045
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45045-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: ''
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- History -- Capture by the British, 1814 -- Juvenile
+  fiction'
+- !lcc 'PZ'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Washington (D.C.) -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Madison, Dolley, 1768-1849 -- Juvenile fiction'
+- !lcsh 'Washington (D.C.) -- History -- Juvenile fiction'
+title: A Little Girl in Old Washington
+url: http://www.gutenberg.org/ebooks/45045
